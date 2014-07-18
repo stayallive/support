@@ -1,0 +1,10 @@
+# IDE
+/.idea
+
+# OSX Crap
+.DS_Store
+
+# PHP Composer
+/vendor
+composer.phar
+composer.lock

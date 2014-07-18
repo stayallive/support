@@ -1,0 +1,23 @@
+{
+    "name": "stayallive/support",
+    "description": "A Laravel support package with some nice to have extensions.",
+    "keywords": ["laravel", "support", "blade", "extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Bouma",
+            "email": "me@alexbouma.me"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "guzzlehttp/guzzle": "4.1.*",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Stayallive\\Support": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
